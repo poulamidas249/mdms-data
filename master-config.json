@@ -133,6 +133,87 @@
         "$.code"
       ]
     },
+	"buildingType": {
+      "masterName": "buildingType",
+      "moduleDefinition": null,
+      "isStateLevel": true,
+      "uniqueKeys": [
+        "$.code"
+      ]
+    },
+	"PremisesType": {
+      "masterName": "PremisesType",
+      "moduleDefinition": null,
+      "isStateLevel": true,
+      "uniqueKeys": [
+        "$.code"
+      ]
+    },
+	"CommonAreaType": {
+      "masterName": "CommonAreaType",
+      "moduleDefinition": null,
+      "isStateLevel": true,
+      "uniqueKeys": [
+        "$.code"
+      ]
+    },
+	"PlotAreaType": {
+      "masterName": "PlotAreaType",
+      "moduleDefinition": null,
+      "isStateLevel": true,
+      "uniqueKeys": [
+        "$.code"
+      ]
+    },
+	"CoveredAreaType": {
+      "masterName": "CoveredAreaType",
+      "moduleDefinition": null,
+      "isStateLevel": true,
+      "uniqueKeys": [
+        "$.code"
+      ]
+    },
+	"ParkingAreaType": {
+      "masterName": "ParkingAreaType",
+      "moduleDefinition": null,
+      "isStateLevel": true,
+      "uniqueKeys": [
+        "$.code"
+      ]
+    },
+	"street": {
+      "masterName": "street",
+      "moduleDefinition": null,
+      "isStateLevel": true,
+      "uniqueKeys": [
+        "$.code"
+      ]
+    },
+	"propType": {
+      "masterName": "propType",
+      "moduleDefinition": null,
+      "isStateLevel": true,
+      "uniqueKeys": [
+        "$.code"
+      ]
+    },
+	
+	"ward": {
+      "masterName": "ward",
+      "moduleDefinition": null,
+      "isStateLevel": true,
+      "uniqueKeys": [
+        "$.code"
+      ]
+    },
+	"OwnershipType": {
+      "masterName": "OwnershipType",
+      "moduleDefinition": null,
+      "isStateLevel": true,
+      "uniqueKeys": [
+        "$.code"
+      ]
+    },
     "UOM": {
       "masterName": "UOM",
       "moduleDefinition": null,

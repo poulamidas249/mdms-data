@@ -1,0 +1,17 @@
+{
+  "tenantId": "km",
+  "moduleName": "PropertyTax",
+  "ParkingAreaType": [
+    {
+      "name": "SqMt.",
+      "code": "SqMt.",
+      "active": true
+    },
+    {
+      "name": "SqFt.",
+      "code": "SqFt.",
+      "active": true
+    }
+  ]
+}
+

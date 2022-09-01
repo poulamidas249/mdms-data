@@ -1,0 +1,33 @@
+{
+	"tenantId": "km",
+	"moduleName": "PropertyTax",
+	"street": [{
+			        "ward":"001",
+					"name": "BARRACKPORE TRUNK ROAD",
+					"code": "01",
+					"active": true
+				},
+				
+				{
+				    "ward":"001",
+					"name": "BUSTEE RE HOUSING SCH NO I",
+					"code": "25",
+					"active": true
+				},
+		
+		       {
+			        "ward":"002",
+					"name": "BARRACKPORE TRUNK ROAD",
+					"code": "01",
+					"active": true
+				},
+		       {
+			        "ward":"003",
+					"name": "ANATH NATH DEB LANE",
+					"code": "01",
+					"active": true
+				}
+		
+
+	]
+}

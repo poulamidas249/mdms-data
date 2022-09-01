@@ -1,0 +1,43 @@
+{
+  "tenantId": "km",
+  "moduleName": "PropertyTax",
+  "PremisesType": [
+    {
+     "name": "State Government",
+      "code": "S",
+      "active": true
+	  
+    },
+    {
+      "name": "Central Government",
+      "code": "C",
+	  "active": true
+	},
+	{
+      "name": "Kolkata Proper",
+      "code": "K",
+	  "active": true
+	},
+	{
+      "name": "Bustee",
+      "code": "B",
+	  "active": true
+	},
+	{
+      "name": "Multi Storeyed Building",
+      "code": "M",
+	  "active": true
+	},
+	{
+      "name": "Kolkata Port Trust",
+      "code": "KP",
+	  "active": true
+	},
+	{
+      "name": "Colony",
+      "code": "KP",
+	  "active": true
+	}
+	
+  ]
+}

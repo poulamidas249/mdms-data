@@ -1,0 +1,43 @@
+{
+  "tenantId": "km",
+  "moduleName": "PropertyTax",
+  "OwnershipType": [
+    {
+     "name": "State Govt Premises",
+      "code": "GP",
+      "active": true
+	  
+    },
+    {
+      "name": "Central Govt Premises",
+      "code": "CG",
+	  "active": true
+	},
+	{
+      "name": "Statutory Bodies",
+      "code": "SB",
+	  "active": true
+	},
+	{
+      "name": "Thika Premises",
+      "code": "TP",
+	  "active": true
+	},
+	{
+      "name": "Bustee Premises",
+      "code": "BP",
+	  "active": true
+	},
+	{
+      "name": "Khasmahal Property",
+      "code": "KP",
+	  "active": true
+	},
+	{
+      "name": "Private Property",
+      "code": "PP",
+	  "active": true
+	}
+	
+  ]
+}

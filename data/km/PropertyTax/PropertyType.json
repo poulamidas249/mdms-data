@@ -3,26 +3,41 @@
   "moduleName": "PropertyTax",
   "PropertyType": [
     {
-      "name": "Vacant Land",
-      "code": "VACANT",
+     "name": "Vacant Land",
+      "code": "V",
       "active": true
+	  
     },
     {
-      "name": "Built Up",
-      "code": "BUILTUP",
-      "active": true
-    },
-    {
-      "name": "Flat/Part of the building",
-      "code": "BUILTUP.SHAREDPROPERTY",
-      "active": true,
-      "propertyType": "BUILTUP"
-    },
-    {
-      "name": "Independent Building",
-      "code": "BUILTUP.INDEPENDENTPROPERTY",
-      "active": true,
-      "propertyType": "BUILTUP"
-    }
+      "name": "Water Body",
+      "code": "W",
+	  "active": true
+	},
+	{
+      "name": "Khatal",
+      "code": "K",
+	  "active": true
+	},
+	{
+      "name": "Land With Tank",
+      "code": "L",
+	  "active": true
+	},
+	{
+      "name": "Constructed Building",
+      "code": "C",
+	  "active": true
+	},
+	{
+      "name": "Flat",
+      "code": "F",
+	  "active": true
+	},
+	{
+      "name": "Under Construction",
+      "code": "U",
+	  "active": true
+	}
+	
   ]
 }

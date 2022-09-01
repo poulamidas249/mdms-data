@@ -1,0 +1,28 @@
+{
+  "tenantId": "km",
+  "moduleName": "PropertyTax",
+  "buildingType": [
+    {
+     "name": "Kancha",
+      "code": "K",
+      "active": true
+	  
+    },
+    {
+      "name": "Pucca",
+      "code": "P",
+	  "active": true
+	},
+	{
+      "name": "Flat",
+      "code": "F",
+	  "active": true
+	},
+	{
+      "name": "Semi Pucca",
+      "code": "S",
+	  "active": true
+	}
+	
+  ]
+}

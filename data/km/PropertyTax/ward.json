@@ -2,632 +2,258 @@
 	"tenantId": "km",
 	"moduleName": "PropertyTax",
 	"ward": [{
-			"name": "001",
-			"code": "1",
-			"active": true,
-			"borough": "1",
-			"street": [{
-					"name": "BARRACKPORE TRUNK ROAD",
-					"code": "1"
-				},
-				{
-					"name": "CHANDRA KUMAR ROY LANE",
-					"code": "2"
-				},
-				{
-					"name": "COSSIPORE ROAD",
-					"code": "3"
-				},
-				{
-					"name": "GOBINDA MONDAL ROAD",
-					"code": "4"
-				},
-				{
-					"name": "GOPAL CHANDRA CHATTERJEE ROAD",
-					"code": "5"
-				},
-				{
-					"name": "GOPI MONDAL LANE",
-					"code": "6"
-				},
-				{
-					"name": "KASI NATH DUTT ROAD",
-					"code": "7"
-				},
-				{
-					"name": "KASISWAR CHATTERJEE LANE",
-					"code": "8"
-				},
-				{
-					"name": "KHAGENDRA CHATTERJEE ROAD",
-					"code": "9"
-				},
-				{
-					"name": "NAFAR CHANDRA LAHA LANE",
-					"code": "10"
-				},
-				{
-					"name": "NARENDRA NATH PAUL ROAD",
-					"code": "11"
-				},
-				{
-					"name": "PARAMANICK GHAT LANE",
-					"code": "12"
-				},
-				{
-					"name": "PRAMANICK GHAT ROAD",
-					"code": "13"
-				},
-				{
-					"name": "PRANNATH CHOWDHURY LANE",
-					"code": "14"
-				},
-				{
-					"name": "PRANNATH SUR LANE",
-					"code": "15"
-				},
-				{
-					"name": "RADHA MOHAN DE LANE",
-					"code": "16"
-				},
-				{
-					"name": "RAJENDRA NATH ROY CHOWDHURY LANE",
-					"code": "17"
-				},
-				{
-					"name": "RATAN BABU ROAD",
-					"code": "18"
-				},
-				{
-					"name": "RUSTOMJEE PARSEE ROAD",
-					"code": "19"
-				},
-				{
-					"name": "SATCHASI PARA LANE",
-					"code": "20"
-				},
-				{
-					"name": "SATCHASI PARA ROAD",
-					"code": "21"
-				},
-				{
-					"name": "SEALS GARDEN LANE",
-					"code": "22"
-				},
-				{
-					"name": "SHAMA CHARAN MAITRA LANE",
-					"code": "23"
-				},
-				{
-					"name": "SRISTIDHAR DEY LANE",
-					"code": "24"
-				},
-				{
-					"name": "BUSTEE RE HOUSING SCH NO I",
-					"code": "25"
-				}
-			]
-		},
-		{
-			"name": "002",
-			"code": "2",
-			"active": true,
-			"borough": "1",
-			"street": [{
-					"name": "BARRACKPORE TRUNK ROAD",
-					"code": "1"
-				},
-				{
-					"name": "CENTRE SINTHEE ROAD",
-					"code": "2"
-				},
-				{
-					"name": "D GUPTA LANE",
-					"code": "3"
-				},
-				{
-					"name": "DUM DUM ROAD",
-					"code": "4"
-				},
-				{
-					"name": "DUM DUM STATION ROAD",
-					"code": "5"
-				},
-				{
-					"name": "GOPAL CHANDRA BOSE LANE",
-					"code": "6"
-				},
-				{
-					"name": "GOUR SUNDER SETT LANE",
-					"code": "7"
-				},
-				{
-					"name": "HAREY KRISTA SETT LANE",
-					"code": "8"
-				},
-				{
-					"name": "HARISH CHANDRA PAUL LANE",
-					"code": "9"
-				},
-				{
-					"name": "HEM DE LANE",
-					"code": "10"
-				},
-				{
-					"name": "KALI CHARAN GHOSE ROADs",
-					"code": "11"
-				},
-				{
-					"name": "KALI CHARAN SETT LANE",
-					"code": "12"
-				},
-				{
-					"name": "KEDAR NATH DAS LANE",
-					"code": "13"
-				},
-				{
-					"name": "NORTHERN AVENUE",
-					"code": "14"
-				},
-				{
-					"name": "PANCHANANTALA LANE",
-					"code": "15"
-				},
-				{
-					"name": "RAJA APURBA KRISTO LANE",
-					"code": "16"
-				},
-				{
-					"name": "RAJA BAGAN LANE",
-					"code": "17"
-				},
-				{
-					"name": "RAM KRISHNA GHOSE ROAD",
-					"code": "18"
-				},
-				{
-					"name": "ROYPARA BYE LANE",
-					"code": "19"
-				},
-				{
-					"name": "ROYPARA LANE",
-					"code": "20"
-				},
-				{
-					"name": "ROYPARA ROAD",
-					"code": "21"
-				},
-				{
-					"name": "SAMAR SARANEE",
-					"code": "22"
-				},
-				{
-					"name": "SANTRAPARA LANE",
-					"code": "23"
-				},
-				{
-					"name": "SEVEN TANKS LANE",
-					"code": "24"
-				},
-				{
-					"name": "GANAPATI SUR SARANI",
-					"code": "25"
-				}
-
-			]
-		},
-		{
-			"name": "003",
-			"code": "3",
-			"active": true,
-			"borough": "1",
-			"street": [{
-					"name": "ANATH NATH DEB LANE",
-					"code": "1"
-				},
-				{
-					"name": "BEERPARA LANE",
-					"code": "2"
-				},
-				{
-					"name": "BUTTO KRISTO PAUL LANE",
-					"code": "3"
-				},
-				{
-					"name": "DUM DUM ROAD",
-					"code": "4"
-				},
-				{
-					"name": "INDRA BISWAS ROAD",
-					"code": "5"
-				},
-				{
-					"name": "JIBAN MITTER ROAD",
-					"code": "6"
-				},
-				{
-					"name": "JIBAN KRISHNA GHOSE ROAD",
-					"code": "7"
-				},
-				{
-					"name": "KRISTO MULLICK LANE",
-					"code": "8"
-				},
-				{
-					"name": "KSHUDIRAM BOSE SARANI",
-					"code": "9"
-				},
-				{
-					"name": "KUNDU LANE",
-					"code": "10"
-				},
-				{
-					"name": "PAIKPARA ROW",
-					"code": "11"
-				},
-				{
-					"name": "PAIKPARA RAJA MANINDRA ROAD",
-					"code": "12"
-				},
-				{
-					"name": "UMA KANTA SEN LANE",
-					"code": "13"
-				}
-			]
-		},
-		{
-			"name": "004",
-			"code": "4",
-			"active": true,
-			"borough": "1",
-			"street": [{
-					"name": "BARRACKPORE TRUNK ROAD",
-					"code": "1"
-				},
-				{
-					"name": "BEERPARA LANE",
-					"code": "2"
-				},
-				{
-					"name": "CHANDRANATH SIMLAI LANE",
-					"code": "3"
-				},
-				{
-					"name": "DUM DUM ROAD",
-					"code": "4"
-				},
-				{
-					"name": "DR. SUBHAS LANE",
-					"code": "5"
-				},
-				{
-					"name": "GANGULIPARA LANE",
-					"code": "6"
-				},
-				{
-					"name": "KALA CHAND PATITUNDI LANE",
-					"code": "7"
-				},
-				{
-					"name": "NORTHERN AVENUE",
-					"code": "8"
-				},
-				{
-					"name": "PAIKPARA RAJA MANINDRA ROAD",
-					"code": "9"
-				},
-				{
-					"name": "PAIKPARA ROW",
-					"code": "10"
-				},
-				{
-					"name": "RANEE BRANCH ROAD",
-					"code": "11"
-				},
-				{
-					"name": "RANI DEBENDRA BALA ROAD",
-					"code": "12"
-				},
-				{
-					"name": "RANI HARSHAMUKHI ROAD",
-					"code": "13"
-				},
-				{
-					"name": "SARBA KHAN ROAD",
-					"code": "14"
-				},
-				{
-					"name": "SIMLAIPARA BYE LANE",
-					"code": "15"
-				},
-				{
-					"name": "SREENATH MUKHERJEE LANE",
-					"code": "16"
-				},
-				{
-					"name": "TARINI CHARAN GHOSE LANE",
-					"code": "17"
-				},
-				{
-					"name": "UMAKANTA SEN LANE",
-					"code": "18"
-				}
-
-			]
-		},
-		{
-			"name": "005",
-			"code": "5",
-			"active": true,
-			"borough": "1",
-			"street": [{
-					"name": "ANATH NATH DEB LANE",
-					"code": "1"
-				},
-				{
-					"name": "BARRACKPORE TRUNK ROAD",
-					"code": "2"
-				},
-				{
-					"name": "BHAIRAB MOOKHERJEE LANE",
-					"code": "3"
-				},
-				{
-					"name": "BONOMALI CHATTERJEE STREET",
-					"code": "4"
-				},
-				{
-					"name": "GOPAL SAMANTA LANE",
-					"code": "5"
-				},
-				{
-					"name": "INDRA BISWAS ROAD",
-					"code": "6"
-				},
-				{
-					"name": "JIBAN KRISHNA GHOSH ROAD",
-					"code": "7"
-				},
-				{
-					"name": "JOGENDRA NATH BOSE LANE",
-					"code": "8"
-				},
-				{
-					"name": "KHELAT BABU LANE",
-					"code": "9"
-				},
-				{
-					"name": "KSHUDIRAM BOSE SARANI",
-					"code": "10"
-				},
-				{
-					"name": "MANMATHA NATH DUTT ROAD",
-					"code": "11"
-				},
-				{
-					"name": "MANMATHA NATH GANGULI ROAD",
-					"code": "12"
-				},
-				{
-					"name": "NILMONI ROW",
-					"code": "13"
-				},
-				{
-					"name": "NRITYA GOPAL CHATTERJEE LANE",
-					"code": "14"
-				},
-				{
-					"name": "OLAI CHANDI ROAD",
-					"code": "15"
-				},
-				{
-					"name": "PAIKPARA RAJA MANINDRA ROAD",
-					"code": "16"
-				},
-				{
-					"name": "PURNA CHATTERJEE LANE",
-					"code": "17"
-				},
-				{
-					"name": "RAI CHARAN SADHUKHAN ROAD",
-					"code": "18"
-				},
-				{
-					"name": "RAJA SEW BUX BAGLA LANE",
-					"code": "19"
-				},
-				{
-					"name": "RAJ KUMAR CHATTERJEE ROAD",
-					"code": "20"
-				},
-				{
-					"name": "SASHI BHUSAN CHATTERJEE LANE",
-					"code": "21"
-				},
-				{
-					"name": "SHYAMA CHARAN MOOKHERJEE STREET",
-					"code": "22"
-				},
-				{
-					"name": "SRISH CHANDRA CHOWDHURY LANE",
-					"code": "23"
-				},
-				{
-					"name": "TARASANKAR SARANI",
-					"code": "24"
-				},
-				{
-					"name": "TARAK BOSE LANE",
-					"code": "25"
-				}
-
-			]
-		},
-		{
-			"name": "006",
-			"code": "6",
-			"active": true,
-			"borough": "1",
-			"street": [{
-					"name": "BANGA SEN LANE",
-					"code": "1"
-				},
-				{
-					"name": "BARRACKPORE TRUNK ROAD",
-					"code": "2"
-				},
-				{
-					"name": "BROJO DOYAL SAHA ROAD",
-					"code": "3"
-				},
-				{
-					"name": "CHITPORE GHAT LANE",
-					"code": "4"
-				},
-				{
-					"name": "COSSIPORE ROAD",
-					"code": "5"
-				},
-				{
-					"name": "DILARJUNG ROAD",
-					"code": "6"
-				},
-				{
-					"name": "DWARKANATH BOSE LANE",
-					"code": "7"
-				},
-				{
-					"name": "GHOSE BAGAN LANE",
-					"code": "8"
-				},
-				{
-					"name": "GOBINDA PAL LANE",
-					"code": "9"
-				},
-				{
-					"name": "GOPAL CHANDRA MUKHERJEE ROAD",
-					"code": "10"
-				},
-				{
-					"name": "HARI DHAN DUTT BYE LANE",
-					"code": "11"
-				},
-				{
-					"name": "HARIDHAN DUTTA LANE",
-					"code": "12"
-				},
-				{
-					"name": "JHELL ROAD",
-					"code": "13"
-				},
-				{
-					"name": "JOGENDRANATH MUKHERJEE LANE",
-					"code": "14"
-				},
-				{
-					"name": "KALI KUMAR BANERJEE LANE",
-					"code": "15"
-				},
-				{
-					"name": "KALI PRASANNA SINHA STREET",
-					"code": "16"
-				},
-				{
-					"name": "KARIM BUX ROW",
-					"code": "17"
-				},
-				{
-					"name": "KHAGENDRA CHATTERJEE ROAD",
-					"code": "18"
-				},
-				{
-					"name": "KRIPANATH DUTT ROAD",
-					"code": "19"
-				},
-				{
-					"name": "KRISHNA LAL DAS ROAD",
-					"code": "20"
-				},
-				{
-					"name": "LALA BABU LANE",
-					"code": "21"
-				},
-				{
-					"name": "LOCKGATE ROAD",
-					"code": "22"
-				},
-				{
-					"name": "MADHUSUDAN CHATTERJEE LANE",
-					"code": "23"
-				},
-				{
-					"name": "NAWABPUTTY STREET",
-					"code": "24"
-				},
-				{
-					"name": "PANCHANAN MUKHERJI ROAD",
-					"code": "25"
-				},
-				{
-					"name": "PRAN KRISHNA MUKHERJEE ROAD",
-					"code": "26"
-				},
-				{
-					"name": "PREONATH MUKHERJEE ROAD",
-					"code": "27"
-				},
-				{
-					"name": "RAM GOPAL GHOSH ROAD",
-					"code": "28"
-				},
-				{
-					"name": "RUSTOMJEE PARSEE ROAD",
-					"code": "29"
-				},
-				{
-					"name": "SARBAMANGALA LANE",
-					"code": "30"
-				},
-				{
-					"name": "SETT PUKUR ROAD",
-					"code": "31"
-				},
-				{
-					"name": "STRAND ROAD",
-					"code": "32"
-				},
-				{
-					"name": "SUGAR WORKS LANE",
-					"code": "33"
-				},
-				{
-					"name": "TURNER ROAD",
-					"code": "34"
-				}
-
-			]
-		},
-		{
-			"name": "010",
-			"code": "10",
-			"active": true,
-			"borough": "2",
-			"street": [{
-					"name": "ABHOY GHOSE LANE",
-					"code": "1"
-				},
-				{
-					"name": "ANANDA LANE",
-					"code": "2"
-				}
-			]
-		},
-		{
-			"name": "044",
-			"code": "44",
-			"active": true,
-			"borough": "5",
-			"street": [{
+		"name": "010",
+		"code": "10",
+		"active": true,
+		"borough": "2",
+		"office": [{
+			"name": "A.C NORTH",
+			"code": "1"
+		}],
+		"street": [{
+				"name": "ABHOY GHOSE LANE",
+				"code": "1"
+			},
+			{
+				"name": "ANANDA LANE",
+				"code": "2"
+			}
+		]
+	},
+	{
+                    "name": "001",
+                    "code": "1",
+                    "active": true,
+                    "borough": "1",
+					"office": [{
+			"name": "A.C NORTH",
+			"code": "1"
+		}],
+                    "street": [
+                        {
+                            "name": "BARRACKPORE TRUNK ROAD",
+                            "code": "1"
+                        },
+                        {
+                            "name": "CHANDRA KUMAR ROY LANE",
+                            "code": "2"
+                        },
+                        {
+                            "name": "COSSIPORE ROAD",
+                            "code": "3"
+                        },
+                        {
+                            "name": "GOBINDA MONDAL ROAD",
+                            "code": "4"
+                        },
+                        {
+                            "name": "GOPAL CHANDRA CHATTERJEE ROAD",
+                            "code": "5"
+                        },
+                        {
+                            "name": "GOPI MONDAL LANE",
+                            "code": "6"
+                        },
+                        {
+                            "name": "KASI NATH DUTT ROAD",
+                            "code": "7"
+                        },
+                        {
+                            "name": "KASISWAR CHATTERJEE LANE",
+                            "code": "8"
+                        },
+                        {
+                            "name": "KHAGENDRA CHATTERJEE ROAD",
+                            "code": "9"
+                        },
+                        {
+                            "name": "NAFAR CHANDRA LAHA LANE",
+                            "code": "10"
+                        },
+                        {
+                            "name": "NARENDRA NATH PAUL ROAD",
+                            "code": "11"
+                        },
+                        {
+                            "name": "PARAMANICK GHAT LANE",
+                            "code": "12"
+                        },
+                        {
+                            "name": "PRAMANICK GHAT ROAD",
+                            "code": "13"
+                        },
+                        {
+                            "name": "PRANNATH CHOWDHURY LANE",
+                            "code": "14"
+                        },
+                        {
+                            "name": "PRANNATH SUR LANE",
+                            "code": "15"
+                        },
+                        {
+                            "name": "RADHA MOHAN DE LANE",
+                            "code": "16"
+                        },
+                        {
+                            "name": "RAJENDRA NATH ROY CHOWDHURY LANE",
+                            "code": "17"
+                        },
+                        {
+                            "name": "RATAN BABU ROAD",
+                            "code": "18"
+                        },
+                        {
+                            "name": "RUSTOMJEE PARSEE ROAD",
+                            "code": "19"
+                        },
+                        {
+                            "name": "SATCHASI PARA LANE",
+                            "code": "20"
+                        },
+                        {
+                            "name": "SATCHASI PARA ROAD",
+                            "code": "21"
+                        },
+                        {
+                            "name": "SEALS GARDEN LANE",
+                            "code": "22"
+                        },
+                        {
+                            "name": "SHAMA CHARAN MAITRA LANE",
+                            "code": "23"
+                        },
+                        {
+                            "name": "SRISTIDHAR DEY LANE",
+                            "code": "24"
+                        },
+                        {
+                            "name": "BUSTEE RE HOUSING SCH NO I",
+                            "code": "25"
+                        }
+                    ]
+                },
+                {
+                    "name": "002",
+                    "code": "2",
+                    "active": true,
+                    "borough": "1",
+					"office": [{
+			        "name": "A.C NORTH",
+			         "code": "1"
+		            }],
+                    "street": [
+                        {
+                            "name": "BARRACKPORE TRUNK ROAD",
+                            "code": "1"
+                        },
+                        {
+                            "name": "CENTRE SINTHEE ROAD",
+                            "code": "2"
+                        },
+                        {
+                            "name": "D GUPTA LANE",
+                            "code": "3"
+                        },
+                        {
+                            "name": "DUM DUM ROAD",
+                            "code": "4"
+                        },
+                        {
+                            "name": "DUM DUM STATION ROAD",
+                            "code": "5"
+                        },
+                        {
+                            "name": "GOPAL CHANDRA BOSE LANE",
+                            "code": "6"
+                        },
+                        {
+                            "name": "GOUR SUNDER SETT LANE",
+                            "code": "7"
+                        },
+                        {
+                            "name": "HAREY KRISTA SETT LANE",
+                            "code": "8"
+                        },
+                        {
+                            "name": "HARISH CHANDRA PAUL LANE",
+                            "code": "9"
+                        },
+                        {
+                            "name": "HEM DE LANE",
+                            "code": "10"
+                        },
+                        {
+                            "name": "KALI CHARAN GHOSE ROADs",
+                            "code": "11"
+                        },
+                        {
+                            "name": "KALI CHARAN SETT LANE",
+                            "code": "12"
+                        },
+                        {
+                            "name": "KEDAR NATH DAS LANE",
+                            "code": "13"
+                        },
+                        {
+                            "name": "NORTHERN AVENUE",
+                            "code": "14"
+                        },
+                        {
+                            "name": "PANCHANANTALA LANE",
+                            "code": "15"
+                        },
+                        {
+                            "name": "RAJA APURBA KRISTO LANE",
+                            "code": "16"
+                        },
+                        {
+                            "name": "RAJA BAGAN LANE",
+                            "code": "17"
+                        },
+                        {
+                            "name": "RAM KRISHNA GHOSE ROAD",
+                            "code": "18"
+                        },
+                        {
+                            "name": "ROYPARA BYE LANE",
+                            "code": "19"
+                        },
+                        {
+                            "name": "ROYPARA LANE",
+                            "code": "20"
+                        },
+                        {
+                            "name": "ROYPARA ROAD",
+                            "code": "21"
+                        },
+                        {
+                            "name": "SAMAR SARANEE",
+                            "code": "22"
+                        },
+                        {
+                            "name": "SANTRAPARA LANE",
+                            "code": "23"
+                        },
+                        {
+                            "name": "SEVEN TANKS LANE",
+                            "code": "24"
+                        },
+                        {
+                            "name": "GANAPATI SUR SARANI",
+                            "code": "25"
+                        }
+                    ]
+                },
+	     {
+		"name": "044",
+		"code": "044",
+		"active": true,
+		"borough": "5",
+		"office": [{
+			"name": "A.C NORTH",
+			"code": "1"
+		}],
+		"street": [{
 					"name": "ANGARIKA DHARMAPALA STREET",
 					"code": "1"
 				},
@@ -635,8 +261,7 @@
 					"name": "BEPIN BEHARI GANGULY STREET",
 					"code": "2"
 				}
-			]
-		}
-
+		]
+	}
 	]
 }

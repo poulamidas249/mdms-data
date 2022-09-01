@@ -1,0 +1,17 @@
+{
+  "tenantId": "km",
+  "moduleName": "PropertyTax",
+  "propType": [
+    {
+     "name": "KMC Property",
+      "code": "KMC",
+      "active": true
+	  
+    },
+    {
+      "name": "Government",
+      "code": "Govt",
+	  "active": true
+	}	
+  ]
+}

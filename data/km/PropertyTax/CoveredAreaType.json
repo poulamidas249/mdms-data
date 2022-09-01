@@ -1,0 +1,17 @@
+{
+  "tenantId": "km",
+  "moduleName": "PropertyTax",
+  "CoveredAreaType": [
+    {
+      "name": "SqMt.",
+      "code": "SqMt.",
+      "active": true
+    },
+    {
+      "name": "SqFt.",
+      "code": "SqFt.",
+      "active": true
+    }
+  ]
+}
+
